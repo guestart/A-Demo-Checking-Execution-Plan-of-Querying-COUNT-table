@@ -9,4 +9,4 @@
 
    (3) Demo3: my 'TEST' tables are TEST3, TEST3_PK, TEST3_BI and TEST3_PK_BI;
 
-   (4) Demo4: my 'TEST' tables are TEST4, TEST4_PK, TEST4_BI and TEST3_PK_BI;
+   (4) Demo4: my 'TEST' tables are TEST4, TEST4_PK, TEST4_BI and TEST4_PK_BI;
