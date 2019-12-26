@@ -20,7 +20,7 @@ REM        oracle PL/SQL procedures. I just use the standard SQL syntax 'CREATE 
 REM        to create my TEST4 tables with two physical properties (SEGMENT CREATION IMMEDIATE and
 REM        NOLOGGING) and a table property (PARALLEL) and then also create corresponding
 REM        PRIMARY KEY or BITMAP INDEX on those different TEST4 tables. Finally inserting
-REM        several test data with '5e7' lines to my all TEST3 tables using the hint 'append'.
+REM        several test data with '5e7' lines to my all TEST3 tables via using the hint 'append'.
 REM
 
 PROMPT =====================
