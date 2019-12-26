@@ -314,7 +314,7 @@ ALTER SESSION SET EVENTS '10053 trace name context off';
 SELECT value FROM v$diag_info WHERE name = 'Default Trace File';
 
 PROMPT ===============================
-PROMPT the real execution plan of 18.3
+PROMPT the real execution plan on 18.3
 PROMPT ===============================
 
 -- SQL_ID  1xys06g1u8fau, child number 0
@@ -550,7 +550,7 @@ PROMPT ===============================
 -- ----------------------------------------------------------------------------------------------------
 
 PROMPT ===============================
-PROMPT the real execution plan of 11.2
+PROMPT the real execution plan on 11.2
 PROMPT ===============================
 
 -- SQL_ID  1xys06g1u8fau, child number 0
